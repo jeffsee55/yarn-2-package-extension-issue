@@ -1422,15 +1422,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"fsevents@patch:fsevents@~2.1.2#builtin<compat/fsevents>":
-  version: 2.1.3
-  resolution: "fsevents@patch:fsevents@npm%3A2.1.3#builtin<compat/fsevents>::version=2.1.3&hash=77dfe6"
-  dependencies:
-    node-gyp: latest
-  checksum: 2/8923e9eda200dd1d9e7e2ad8f27d197da669e66c6b4be1f3c65e0d3408a66985f0e9c082a39df8d4fe7c15587411a0fa652ab678519b28c6f73767bc68895177
-  languageName: node
-  linkType: hard
-
 fsevents@~2.1.2:
   version: 2.1.3
   resolution: "fsevents@npm:2.1.3"
