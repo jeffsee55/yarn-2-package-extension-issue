@@ -1,0 +1,10 @@
+{
+  "name": "yarn-package-extension-issue",
+  "scripts": {
+    "generate": "graphql-codegen init"
+  },
+  "dependencies": {
+    "@graphql-codegen/cli": "^1.13.3",
+    "graphql": "^15.0.0"
+  }
+}
